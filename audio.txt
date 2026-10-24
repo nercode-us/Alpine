@@ -1,0 +1,1 @@
+pulseaudio pulseaudio-alsa pulseaudio-bluez pulseaudio-ctl pulseaudio-dbg pulseaudio-equalizer pulseaudio-jack pulseaudio-openrc pulseaudio-qt pulseaudio-utils pulseaudio-wireplumber pulseaudio-zeroconf xfce4-pulseaudio-plugin 

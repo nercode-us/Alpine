@@ -1,0 +1,1 @@
+gnome-backgrounds mate-backgrounds sway-wallpapers plasma-workspace-wallpapers phosh-wallpapers hyprland-wallpapers breeze-wallpapers

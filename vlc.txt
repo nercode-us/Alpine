@@ -1,0 +1,1 @@
+faenza-icon-theme-vlc vlc vlc-daemon vlc-libs vlc-nftrules vlc-qt 
