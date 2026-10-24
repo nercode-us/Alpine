@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/bin/bash
 
-apk add bash gcompat
+apk add gcompat
 apk add build-base abuild alpine-sdk
 
 apk add udisks2 gvfs gvfs-fuse dbus polkit thunar-volman
